@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppEjemplo1</string>
+    <string name="hint_id">Id</string>
+    <string name="hint_user_id">User id</string>
+    <string name="hint_title">titulo</string>
+    <string name="hint_body">Body</string>
+</resources>
